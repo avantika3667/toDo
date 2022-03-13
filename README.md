@@ -2,17 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## prerequisite
+## Prerequisite
 
-To run this project need `node => v14.19.0`
-## Available Scripts
+To run this project require  `node => v14.19.0`
 
-In the project directory, you can run:
- - npm install
- - npm start
-### `npm start`
+## Run Project 
 
- - First run `npm install` to install dependencies
- - Runs the app in the development mode.\
- - Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+To run the app follow below mentioned steps
 
+- Run `npm install`
+- Run `npm start`
+- Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
