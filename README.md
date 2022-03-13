@@ -8,7 +8,7 @@ To run this project require  `node => v14.19.0`
 
 ## Run Project 
 
-To run the app follow below mentioned steps
+To run the project follow below mentioned steps
 
 - Run `npm install`
 - Run `npm start`
